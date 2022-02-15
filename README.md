@@ -28,5 +28,5 @@ else 7.2. Member does not have JSON or SQlite for this dataset
     MEL-->PDS: Provision blank SQLite record
 end
 
-MEL->Member: 8. Display SQlite data
+MEL-->Member: 8. Display SQlite data
 ```
